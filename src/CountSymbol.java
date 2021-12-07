@@ -1,4 +1,3 @@
-import com.sun.javafx.iio.gif.GIFImageLoaderFactory;
 
 import java.util.Scanner;
 
@@ -19,7 +18,6 @@ public class CountSymbol {
                 count++;
             }
         }
-
         System.out.println("Tổng số ký tự " + s + " trong chuỗi đã nhập = " + count);
     }
 }
